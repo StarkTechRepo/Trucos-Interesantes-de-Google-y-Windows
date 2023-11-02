@@ -38,7 +38,7 @@ Puedes configurar Windows para que emita un sonido cuando las mayúsculas estén
 
 ## Google Académico
 
-Google Académico es un buscador especializado en contenidos académicos e investigaciones.
+[Google Académico](https://scholar.google.es/schhp?hl=es) es un buscador especializado en contenidos académicos e investigaciones.
 
 ---
 
