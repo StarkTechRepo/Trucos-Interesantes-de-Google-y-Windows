@@ -2,6 +2,8 @@
 
 A continuación, se presentan algunos trucos interesantes relacionados con Google y Windows:
 
+---
+
 ## Verificar la Configuración de Anuncios en Google
 
 Para verificar si los anuncios están activados en tu cuenta de Google, simplemente realiza los siguientes pasos:
@@ -10,6 +12,8 @@ Para verificar si los anuncios están activados en tu cuenta de Google, simpleme
 
 2. Accede al enlace correspondiente a la configuración de anuncios en Google.
 
+---
+
 ## Desactivar los Anuncios en Google
 
 Si deseas desactivar los anuncios en Google, sigue estos pasos:
@@ -17,6 +21,8 @@ Si deseas desactivar los anuncios en Google, sigue estos pasos:
 1. Accede a la configuración de anuncios en Google.
 
 2. Dentro de la configuración, desactiva la opción de historial de anuncios.
+
+---
 
 ## Sonido de Mayúsculas Activadas en Windows
 
@@ -28,27 +34,41 @@ Puedes configurar Windows para que emita un sonido cuando las mayúsculas estén
 
 3. En la sección de Teclado, activa la opción de Teclas de Alternancia.
 
+---
+
 ## Google Académico
 
 Google Académico es un buscador especializado en contenidos académicos e investigaciones.
+
+---
 
 ## Captura de Pantalla en Windows
 
 Puedes tomar capturas de pantalla con selección en Windows utilizando la combinación de teclas "Windows + Shift + S".
 
+---
+
 ## Escaneo desde el Teléfono con Adobe Scan
 
 La aplicación Adobe Scan te permite escanear documentos con tu teléfono y convertirlos en archivos PDF.
+
+---
 
 ## Traducción de Texto en Imágenes con Google Translate
 
 Utiliza la aplicación Google Translate en tu móvil para traducir texto en imágenes capturadas con la cámara.
 
+---
+
 ## Simuladores y Juegos
 
-- [Simula una PC vieja](https://emupedia.net/beta/emuos/)
-- [Google Drive Simulator](https://framesynthesis.com/drivingsimulator/maps/)
-- [Can You Draw a Perfect Circle](https://neal.fun/perfect-circle/)
+- [Simula una PC vieja](https://emupedia.net/beta/emuos/): Experimenta la nostalgia de usar una computadora antigua en tu navegador web.
+
+- [Google Drive Simulator](https://framesynthesis.com/drivingsimulator/maps/): Conviértete en un conductor virtual y explora Google Maps como si estuvieras al volante.
+
+- [Can You Draw a Perfect Circle](https://neal.fun/perfect-circle/): Pon a prueba tus habilidades artísticas intentando dibujar un círculo perfecto a mano alzada.
+
+---
 
 ## Juegos Especiales en Google
 
@@ -63,9 +83,13 @@ Realiza búsquedas en Google con palabras clave especiales para acceder a juegos
 - "Google Atari breakout" muestra un juego de Breakout en la pantalla.
 - "Google Tetris" muestra un juego de Tetris en la pantalla.
 
+---
+
 ## Otros Trucos Divertidos
 
 - Simula ser un hacker escribiendo cualquier cosa en el teclado: [Hackertyper](https://hackertyper.net/)
+
+---
 
 # Licencia
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
