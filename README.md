@@ -191,6 +191,53 @@ Descarga archivos directamente de Google Drive sin escanearlos:
 ¡Descarga archivos sin abrir Google Drive primero!
 
 ----
+
+# 🔄 Actualizar Datos de una Página Web Automáticamente
+
+Refresca automáticamente los datos de una página web:
+
+1. Abre la consola del navegador (F12 o clic derecho > Inspeccionar > Consola).
+2. Ingresa: `setInterval(function(){ location.reload(); }, TIEMPO_EN_MILISEGUNDOS);`
+
+¡Mantén tus datos siempre actualizados!
+
+---
+
+# 🔍 Búsqueda Eficiente en Google
+
+Refina tus búsquedas en Google:
+
+- Usa comillas para buscar una frase exacta: `"frase exacta"`.
+- Excluye palabras con el signo `-`: `tecnología -móviles`.
+- Busca en un sitio específico con `site:`: `tecnología site:wikipedia.org`.
+
+¡Encuentra lo que buscas de manera más eficiente!
+
+---
+
+# 📅 Acceso Rápido al Calendario de Google
+
+Abre tu calendario de Google al instante:
+
+- En Google Chrome, crea un marcador con la URL: `https://calendar.google.com/calendar/r`.
+- Asigna un atajo de teclado para el marcador.
+
+¡Consulta tu agenda con un solo clic!
+
+---
+
+# 🔍 Búsqueda Eficiente en Google
+
+Refina tus búsquedas en Google:
+
+- Usa comillas para buscar una frase exacta: `"frase exacta"`.
+- Excluye palabras con el signo `-`: `tecnología -móviles`.
+- Busca en un sitio específico con `site:`: `tecnología site:wikipedia.org`.
+
+¡Encuentra lo que buscas de manera más eficiente!
+
+---
+
 # Licencia
 
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). ¡Comparte, adapta y disfruta dando crédito al autor original!
