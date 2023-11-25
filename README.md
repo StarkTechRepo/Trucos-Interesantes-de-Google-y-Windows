@@ -17,7 +17,7 @@ Descubre algunos trucos fascinantes relacionados con Google y Windows para mejor
 10. [Otros Trucos Divertidos](#-otros-trucos-divertidos)
 11. [Habilitar Modo Oscuro en Gmail](#-habilitar-modo-oscuro-en-gmail)
 12. [Navegación Anónima en Google Chrome](#-navegación-anónima-en-google-chrome)
-13. [Editar PDFs con Google Drive](#-editar-pdfs-con-google-drive)
+13. [Editar PDFs con Google Drive](#%EF%B8%8F-editar-pdfs-con-google-drive)
 14. [Bloquear Sitios Web en Windows](#-bloquear-sitios-web-en-windows)
 15. [Establecer Recordatorios con Google](#-establecer-recordatorios-con-google)
 16. [Rotar la Pantalla en Windows](#-rotar-la-pantalla-en-windows)
