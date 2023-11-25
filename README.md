@@ -26,8 +26,9 @@ Descubre algunos trucos fascinantes relacionados con Google y Windows para mejor
 19. [Actualizar Datos de una Página Web Automáticamente](#-actualizar-datos-de-una-página-web-automáticamente)
 20. [Búsqueda Eficiente en Google](#-búsqueda-eficiente-en-google)
 21. [Acceso Rápido al Calendario de Google](#-acceso-rápido-al-calendario-de-google)
-22. [Licencia](#licencia)
-23. [Nota importante](#nota-importante)
+22. [Transferir Archivos de Móvil a PC sin Cable con Sharedrop]()
+23. [Licencia](#licencia)
+24. [Nota importante](#nota-importante)
 
 ---
 
@@ -245,6 +246,37 @@ Refina tus búsquedas en Google:
 - Busca en un sitio específico con `site:`: `tecnología site:wikipedia.org`.
 
 ¡Encuentra lo que buscas de manera más eficiente!
+
+---
+
+# 📲 Transferir Archivos de Móvil a PC sin Cable con Sharedrop
+
+**Sharedrop** es una plataforma que permite la transferencia de archivos de manera sencilla entre dispositivos conectados a la misma red Wi-Fi. Sigue estos pasos:
+
+1. **Abre Sharedrop:**
+   - Asegúrate de que tanto tu móvil como tu PC estén conectados a la misma red Wi-Fi.
+   - Abre tu navegador web en ambos dispositivos.
+
+2. **Accede a Sharedrop:**
+   - En ambos dispositivos, ve a [Sharedrop](https://www.sharedrop.io/).
+
+3. **Selecciona el Dispositivo:**
+   - En el dispositivo desde el cual deseas enviar archivos, haz clic en el ícono de "Enviar Archivos".
+   - En el otro dispositivo, haz clic en "Recibir Archivos".
+
+4. **Confirma Conexión:**
+   - Sharedrop mostrará un código QR en la pantalla del dispositivo que envía. Escanea este código QR con la cámara de tu móvil.
+
+5. **Selecciona y Envía Archivos:**
+   - En el dispositivo que envía, selecciona los archivos que deseas transferir y arrástralos a la interfaz de Sharedrop.
+   - La transferencia comenzará automáticamente, y verás el progreso en ambas pantallas.
+
+6. **Descarga en el Dispositivo Receptor:**
+   - En el dispositivo receptor, los archivos aparecerán para su descarga una vez completada la transferencia.
+
+¡Listo! Has transferido archivos de tu móvil a tu PC sin necesidad de cables.
+
+Recuerda que Sharedrop utiliza la conexión Wi-Fi, así que es importante que ambos dispositivos estén en la misma red para que funcione de manera efectiva. ¡Espero que encuentres útil esta opción para transferir archivos de forma inalámbrica!
 
 ---
 
