@@ -1,3 +1,8 @@
+
+# Trucos Interesantes de Google y Windows
+
+Descubre algunos trucos fascinantes relacionados con Google y Windows para mejorar tu experiencia digital:
+
 # Índice
 
 1. [Verificar la Configuración de Anuncios en Google](#verificar-la-configuración-de-anuncios-en-google)
@@ -13,13 +18,6 @@
 11. [Habilitar Modo Oscuro en Gmail](#habilitar-modo-oscuro-en-gmail)
 12. [Licencia](#licencia)
 13. [Nota importante](#nota-importante)
-
-
----
-
-# Trucos Interesantes de Google y Windows
-
-Descubre algunos trucos fascinantes relacionados con Google y Windows para mejorar tu experiencia digital:
 
 ---
 
