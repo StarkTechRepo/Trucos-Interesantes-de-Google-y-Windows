@@ -17,7 +17,7 @@ Descubre algunos trucos fascinantes relacionados con Google y Windows para mejor
 10. [Otros Trucos Divertidos](#-otros-trucos-divertidos)
 11. [Habilitar Modo Oscuro en Gmail](#-habilitar-modo-oscuro-en-gmail)
 12. [Licencia](#licencia)
-13. [Nota importante](#nota-importante)
+13. [Nota importante](#%EF%B8%8F-nota-importante)
 
 ---
 
