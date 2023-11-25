@@ -17,7 +17,7 @@ Descubre algunos trucos fascinantes relacionados con Google y Windows para mejor
 10. [Otros Trucos Divertidos](#-otros-trucos-divertidos)
 11. [Habilitar Modo Oscuro en Gmail](#-habilitar-modo-oscuro-en-gmail)
 12. [Licencia](#-licencia)
-13. [Nota importante](#%EF%B8%8F-nota-importante)
+13. [Nota importante](#-nota-importante)
 
 ---
 
@@ -191,11 +191,11 @@ Descarga archivos directamente de Google Drive sin escanearlos:
 ¡Descarga archivos sin abrir Google Drive primero!
 
 ----
-# 🌟 Licencia
+# Licencia
 
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). ¡Comparte, adapta y disfruta dando crédito al autor original!
 
-# ⚠️ Nota importante
+# Nota importante
 
 Se recomienda realizar copias de seguridad antes de continuar. El autor no se hace responsable de cualquier daño causado por el mal uso de estas técnicas.
 
