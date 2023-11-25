@@ -91,6 +91,32 @@ Realiza búsquedas en Google con palabras clave especiales para acceder a juegos
 
 ---
 
+## Habilitar Modo Oscuro en Gmail
+
+El modo oscuro en Gmail proporciona una interfaz visual más suave y reduce la fatiga ocular, especialmente en entornos con poca luz. Sigue estos pasos para habilitar el modo oscuro:
+
+**Pasos para Habilitar Modo Oscuro en Gmail:**
+
+1. **Acceder a Configuración:**
+   - Abre tu cuenta de Gmail.
+   - Haz clic en el ícono de ajustes (engranaje) en la esquina superior derecha.
+   - Selecciona "Ver todas las configuraciones".
+
+2. **Ir a la Pestaña "Temas":**
+   - Navega a la pestaña "Temas" en la parte superior del menú de configuración.
+
+3. **Seleccionar Modo Oscuro:**
+   - Busca la sección "Temas" y elige la opción "Tema Oscuro" o "Oscuro" según la disponibilidad.
+
+4. **Guardar Cambios:**
+   - Desplázate hacia abajo y haz clic en "Guardar cambios" para aplicar el tema oscuro.
+
+¡Listo! Ahora disfrutarás de la interfaz de Gmail en modo oscuro, lo que mejora la legibilidad y reduce el deslumbramiento, especialmente en condiciones de poca luz.
+
+**Nota:** Dependiendo de la disponibilidad y la versión de Gmail, es posible que esta opción esté etiquetada de manera ligeramente diferente.
+
+---
+
 # Licencia
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
 
