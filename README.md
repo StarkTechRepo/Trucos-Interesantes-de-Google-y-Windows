@@ -108,6 +108,66 @@ Cuida tus ojos con el modo oscuro en Gmail. Sigue estos pasos:
 
 ---
 
+# 🌐 Navegación Anónima en Google Chrome
+
+Si deseas navegar de manera anónima en Google Chrome:
+
+1. Abre Chrome.
+2. Presiona `Ctrl + Shift + N` para abrir una nueva ventana de incógnito.
+
+Tu actividad en esta ventana no se guardará en el historial.
+
+---
+
+# 🖌️ Editar PDFs con Google Drive
+
+Google Drive te permite editar PDFs sin instalar software adicional:
+
+1. Sube tu PDF a Google Drive.
+2. Haz clic derecho y elige "Abrir con" > "Documentos de Google".
+
+Puedes realizar ediciones y guardar el documento como PDF nuevamente.
+
+---
+
+# 📌 Bloquear Sitios Web en Windows
+
+Si necesitas aumentar la productividad o limitar el acceso a ciertos sitios web, puedes bloquearlos en Windows editando el archivo `hosts`. Sigue estos pasos:
+
+1. Abre el Bloc de notas como administrador.
+2. Navega a `C:\Windows\System32\drivers\etc\hosts`.
+3. Agrega líneas al final del archivo en el formato `127.0.0.1 nombre_del_sitio`.
+
+Ejemplo:
+```
+127.0.0.1 facebook.com
+127.0.0.1 twitter.com
+```
+
+---
+
+# 🕰️ Establecer Recordatorios con Google
+
+Aprovecha la función de recordatorios de Google para no olvidar tareas importantes:
+
+1. Abre Google Calendar.
+2. Haz clic en la hora en la que deseas establecer el recordatorio.
+3. Agrega los detalles y configura la notificación.
+
+Recibirás recordatorios en tus dispositivos vinculados.
+
+---
+
+ # 🔄 Rotar la Pantalla en Windows
+
+Si alguna vez necesitas rotar la pantalla en Windows, puedes hacerlo con estos pasos:
+
+1. Presiona `Ctrl + Alt + Flecha hacia la derecha` o `Ctrl + Alt + Flecha hacia la izquierda`.
+
+Experimenta con diferentes combinaciones de teclas para encontrar la orientación que desees.
+
+---
+
 # 🌟 Licencia
 
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). ¡Comparte, adapta y disfruta dando crédito al autor original!
