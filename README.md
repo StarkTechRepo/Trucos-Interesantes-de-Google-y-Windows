@@ -21,7 +21,7 @@ Descubre algunos trucos fascinantes relacionados con Google y Windows para mejor
 14. [Bloquear Sitios Web en Windows](#-bloquear-sitios-web-en-windows)
 15. [Establecer Recordatorios con Google](#-establecer-recordatorios-con-google)
 16. [Rotar la Pantalla en Windows](#-rotar-la-pantalla-en-windows)
-17. [Modo Dios en Windows](#-modo-dios-en-windows)
+17. [Modo Dios en Windows](#%EF%B8%8F-modo-dios-en-windows)
 18. [Descargar Archivos de Google Drive sin Previo Escaneo](#-descargar-archivos-de-google-drive-sin-previo-escaneo)
 19. [Actualizar Datos de una Página Web Automáticamente](#-actualizar-datos-de-una-página-web-automáticamente)
 20. [Búsqueda Eficiente en Google](#-búsqueda-eficiente-en-google)
