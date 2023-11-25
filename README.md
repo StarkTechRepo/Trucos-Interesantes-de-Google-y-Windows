@@ -142,6 +142,7 @@ Ejemplo:
 ```
 127.0.0.1 facebook.com
 127.0.0.1 twitter.com
+127.0.0.1 tiktok.com
 ```
 
 ---
@@ -165,6 +166,17 @@ Si alguna vez necesitas rotar la pantalla en Windows, puedes hacerlo con estos p
 1. Presiona `Ctrl + Alt + Flecha hacia la derecha` o `Ctrl + Alt + Flecha hacia la izquierda`.
 
 Experimenta con diferentes combinaciones de teclas para encontrar la orientación que desees.
+
+---
+
+# 🕹️ Modo Dios en Windows
+
+Accede al "Modo Dios" en Windows para un acceso rápido a todas las configuraciones:
+
+1. Crea una nueva carpeta en el escritorio.
+2. Cambia el nombre de la carpeta a: `GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}`.
+
+La carpeta se transformará en un panel de control con acceso a diversas configuraciones avanzadas.
 
 ---
 
