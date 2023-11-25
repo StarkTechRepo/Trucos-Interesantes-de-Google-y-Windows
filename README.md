@@ -26,7 +26,7 @@ Descubre algunos trucos fascinantes relacionados con Google y Windows para mejor
 19. [Actualizar Datos de una Página Web Automáticamente](#-actualizar-datos-de-una-página-web-automáticamente)
 20. [Búsqueda Eficiente en Google](#-búsqueda-eficiente-en-google)
 21. [Acceso Rápido al Calendario de Google](#-acceso-rápido-al-calendario-de-google)
-22. [Transferir Archivos de Móvil a PC sin Cable con Sharedrop]()
+22. [Transferir Archivos de Móvil a PC sin Cable con Sharedrop](#-transferir-archivos-de-móvil-a-pc-sin-cable-con-sharedrop)
 23. [Licencia](#licencia)
 24. [Nota importante](#nota-importante)
 
