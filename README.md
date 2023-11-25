@@ -143,11 +143,12 @@ Puedes realizar ediciones y guardar el documento como PDF nuevamente.
 
 # 📌 Bloquear Sitios Web en Windows
 
-Si necesitas aumentar la productividad o limitar el acceso a ciertos sitios web, puedes bloquearlos en Windows editando el archivo `hosts`. Sigue estos pasos:
+Si necesitas aumentar la productividad o limitar el acceso a ciertos sitios web, puedes bloquearlos en Windows de la siguiente manera:
 
-1. Abre el Bloc de notas como administrador.
-2. Navega a `C:\Windows\System32\drivers\etc\hosts`.
-3. Agrega líneas al final del archivo en el formato `127.0.0.1 nombre_del_sitio`.
+1. Presiona `Win + R` para abrir el cuadro de diálogo "Ejecutar".
+2. Escribe `notepad C:\Windows\System32\drivers\etc\hosts` y presiona Enter. Esto abrirá el archivo `hosts` en el Bloc de notas como administrador.
+
+3. En el Bloc de notas, agrega líneas al final del archivo en el formato `127.0.0.1 nombre_del_sitio`.
 
 Ejemplo:
 ```
