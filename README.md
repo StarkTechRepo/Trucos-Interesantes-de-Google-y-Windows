@@ -5,19 +5,19 @@ Descubre algunos trucos fascinantes relacionados con Google y Windows para mejor
 
 # Índice
 
-1. [Verificar la Configuración de Anuncios en Google](#verificar-la-configuración-de-anuncios-en-google)
-2. [Desactivar los Anuncios en Google](#desactivar-los-anuncios-en-google)
-3. [Sonido de Mayúsculas Activadas en Windows](#sonido-de-mayúsculas-activadas-en-windows)
-4. [Google Académico](#google-académico)
-5. [Captura de Pantalla en Windows](#captura-de-pantalla-en-windows)
-6. [Escaneo desde el Teléfono con Adobe Scan](#escaneo-desde-el-teléfono-con-adobe-scan)
-7. [Traducción de Texto en Imágenes con Google Translate](#traducción-de-texto-en-imágenes-con-google-translate)
-8. [Simuladores y Juegos Divertidos](#simuladores-y-juegos-divertidos)
-9. [Juegos Especiales en Google](#juegos-especiales-en-google)
-10. [Otros Trucos Divertidos](#otros-trucos-divertidos)
-11. [Habilitar Modo Oscuro en Gmail](#habilitar-modo-oscuro-en-gmail)
-12. [Licencia](#licencia)
-13. [Nota importante](#nota-importante)
+1. [Verificar la Configuración de Anuncios en Google](#-verificar-la-configuración-de-anuncios-en-google)
+2. [Desactivar los Anuncios en Google](#-desactivar-los-anuncios-en-google)
+3. [Sonido de Mayúsculas Activadas en Windows](#-sonido-de-mayúsculas-activadas-en-windows)
+4. [Google Académico](#-google-académico)
+5. [Captura de Pantalla en Windows](#-captura-de-pantalla-en-windows)
+6. [Escaneo desde el Teléfono con Adobe Scan](#-escaneo-desde-el-teléfono-con-adobe-scan)
+7. [Traducción de Texto en Imágenes con Google Translate](#-traducción-de-texto-en-imágenes-con-google-translate)
+8. [Simuladores y Juegos Divertidos](#-simuladores-y-juegos-divertidos)
+9. [Juegos Especiales en Google](#-juegos-especiales-en-google)
+10. [Otros Trucos Divertidos](#-otros-trucos-divertidos)
+11. [Habilitar Modo Oscuro en Gmail](#-habilitar-modo-oscuro-en-gmail)
+12. [Licencia](#-licencia)
+13. [Nota importante](#-nota-importante)
 
 ---
 
