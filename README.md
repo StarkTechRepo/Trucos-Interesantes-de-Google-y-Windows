@@ -180,6 +180,17 @@ La carpeta se transformará en un panel de control con acceso a diversas configu
 
 ---
 
+# 📡 Descargar Archivos de Google Drive sin Previo Escaneo
+
+Descarga archivos directamente de Google Drive sin escanearlos:
+
+1. Abre el enlace de Google Drive.
+2. Reemplaza `/view` con `/export?format=FORMATO` en la URL (FORMATO puede ser `pdf`, `docx`, etc.).
+3. Presiona `Enter` para descargar el archivo.
+
+¡Descarga archivos sin abrir Google Drive primero!
+
+----
 # 🌟 Licencia
 
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). ¡Comparte, adapta y disfruta dando crédito al autor original!
