@@ -215,18 +215,6 @@ Refresca automáticamente los datos de una página web:
 
 ---
 
-# 🔍 Búsqueda Eficiente en Google
-
-Refina tus búsquedas en Google:
-
-- Usa comillas para buscar una frase exacta: `"frase exacta"`.
-- Excluye palabras con el signo `-`: `tecnología -móviles`.
-- Busca en un sitio específico con `site:`: `tecnología site:wikipedia.org`.
-
-¡Encuentra lo que buscas de manera más eficiente!
-
----
-
 # 📅 Acceso Rápido al Calendario de Google
 
 Abre tu calendario de Google al instante:
