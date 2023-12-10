@@ -27,8 +27,9 @@ Descubre algunos trucos fascinantes relacionados con Google y Windows para mejor
 20. [Búsqueda Eficiente en Google](#-búsqueda-eficiente-en-google)
 21. [Acceso Rápido al Calendario de Google](#-acceso-rápido-al-calendario-de-google)
 22. [Transferir Archivos de Móvil a PC sin Cable con Sharedrop](#-transferir-archivos-de-móvil-a-pc-sin-cable-con-sharedrop)
-23. [Licencia](#licencia)
-24. [Nota importante](#nota-importante)
+23. [Sitios Web Divertidos e Inútiles](#-Sitios-Web-Divertidos-e-Inútiles)
+24. [Licencia](#licencia)
+25. [Nota importante](#nota-importante)
 
 ---
 
@@ -266,6 +267,30 @@ Refina tus búsquedas en Google:
 ¡Listo! Has transferido archivos de tu móvil a tu PC sin necesidad de cables.
 
 Recuerda que Sharedrop utiliza la conexión Wi-Fi, así que es importante que ambos dispositivos estén en la misma red para que funcione de manera efectiva. 
+
+---
+
+## 🚀 Sitios Web Divertidos e Inútiles
+
+¡Explora estos sitios web peculiares y totalmente inútiles para pasar un rato divertido en la web!
+
+1. [Windows 93](https://www.windows93.net/)
+   - Sumérgete en una experiencia nostálgica con un sistema operativo ficticio lleno de sorpresas y rarezas.
+
+2. [Fake Update](https://www.fakeupdate.net/)
+   - ¡Sorprende a tus amigos con una falsa actualización de sistema operativo! Personaliza la pantalla de actualización para confundir y divertir.
+
+3. [Download More RAM](https://downloadmoreram.com/)
+   - ¿Sientes que tu computadora necesita un impulso? Intenta descargar más RAM de manera ficticia y experimenta una solución cómica.
+
+4. [Falling Falling](https://www.fallingfalling.com/)
+   - Entra en un estado hipnótico mientras observas una cascada interminable de letras que caen. ¡Relájate y disfruta de la simplicidad absurda!
+
+5. [Heeeeeeeey](https://heeeeeeeey.com/)
+   - Un sitio web con una sola palabra y muchos "e". ¿Cuánto tiempo puedes resistir antes de cerrarlo? ¡Descúbrelo por ti mismo!
+
+6. [Koalas to the Max](https://www.koalastothemax.com/)
+   - Haz clic para descubrir la sorprendente transformación de un circulo dividido en miles de circulos más pequeños. ¡Una experiencia visual única!
 
 ---
 
