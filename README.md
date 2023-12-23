@@ -28,7 +28,7 @@ Descubre algunos trucos fascinantes relacionados con Google y Windows para mejor
 21. [Acceso Rápido al Calendario de Google](#-acceso-rápido-al-calendario-de-google)
 22. [Transferir Archivos de Móvil a PC sin Cable con Sharedrop](#-transferir-archivos-de-móvil-a-pc-sin-cable-con-sharedrop)
 23. [Sitios Web Divertidos e Inútiles](#-Sitios-Web-Divertidos-e-Inútiles)
-24. [Monitor de Cámara de Seguridad Alfred](#-Monitor-de-Cámara-de-Seguridad-Alfred)
+24. [Monitor de Cámara de Seguridad ](#-Monitor-de-Cámara-de-Seguridad)
 25. [Monitoreo de Batería en Android](#-Monitoreo-de-Batería-en-Android)
 26. [Licencia](#licencia)
 27. [Nota importante](#nota-importante)
@@ -296,7 +296,7 @@ Recuerda que Sharedrop utiliza la conexión Wi-Fi, así que es importante que am
 
 ---
 
-## Monitor de Cámara de Seguridad Alfred
+## Monitor de Cámara de Seguridad
 
 📷 **Alfred Camera**: Convierte tu antiguo smartphone en una cámara de seguridad.
    - **Características:**
